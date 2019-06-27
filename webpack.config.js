@@ -1,4 +1,4 @@
-const VueLoaderPlugin = require("vue-loader/lib/plugin");
+const VueLoaderPlugin = require('vue-loader/lib/plugin');
 
 module.exports = {
 	module: {
@@ -6,7 +6,7 @@ module.exports = {
 			// ... other rules
 			{
 				test: /\.vue$/,
-				loader: "vue-loader"
+				loader: 'vue-loader'
 			}
 		]
 	},
