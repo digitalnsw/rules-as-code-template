@@ -1,12 +1,21 @@
 <template>
 	<div>
+
+		<example></example>
+
 		<h1>Home</h1>
+
 	</div>
 </template>
 
 <script>
-export default {
 
+import Example from './Example.vue'
+
+export default {
+	components: {
+		Example
+	}
 }
 </script>
 
