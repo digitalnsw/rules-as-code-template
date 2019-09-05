@@ -43,7 +43,6 @@ $ npm run vue:dev
 * [Node.js](https://nodejs.org/) - JavaScript server
 * [Vue](https://vuejs.org/) - JavaScript Framework
 * [Vuex](https://vuex.vuejs.org/) - State management pattern
-* [Webpack](https://webpack.js.org/) - Module bundler
 
 ## Versioning
 
