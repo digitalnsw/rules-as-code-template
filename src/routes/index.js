@@ -6,7 +6,8 @@ import contact from '../components/Contact.vue'
 Vue.use(VueRouter)
 
 export default new VueRouter({
-  mode: 'history',
+	mode: 'history',
+	base: window.location.pathname,
   routes: [
 		{ path: '/', name: 'home', component: home },
 		{ path: '/contact/', name: 'contact', component: contact }
