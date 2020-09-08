@@ -69,7 +69,7 @@
 		"@gov.au/text-inputs": "latest",
 		"autoprefixer": "^9.6.1",
 		"axios": "^0.18.1",
-		"node-sass": "^4.9.2",
+		"node-sass": "^4.13.1",
 		"postcss-cli": "^6.1.3",
 		"vue": "^2.6.10",
 		"vue-router": "^3.0.7",
